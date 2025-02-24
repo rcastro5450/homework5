@@ -1,6 +1,6 @@
 <script setup>
-import { ref } from 'vue'
-import MainCards from '@/components/MainCards.vue';
+  import { ref } from 'vue'
+  import MainCards from '@/components/MainCards.vue';
 </script>
 
 <template>
